@@ -1,0 +1,22 @@
+.dropdown {
+    margin-left: 10px;
+}
+
+.caption {
+    float: left;
+}
+
+.buttonspost {
+    border-color: black;
+    float: left;
+    margin: 5px;
+}
+
+.changemodebuttons {
+    margin: 10px;
+    padding: 10px;
+}
+
+.card-date{
+    color: grey;
+}
